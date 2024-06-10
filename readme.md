@@ -19,7 +19,7 @@ The model achieved high precision (93.5%) and recall (97.6%) in segmenting and i
 
 ## Paper
 
-For more detailed information, please refer to our project paper: [Paper](https://drive.google.com/file/d/1OW23dFoAKLMzT3XsOs7otZt04T8M_snH/view?usp=sharing)
+For more detailed information, please refer to our project paper: [Paper](https://drive.google.com/file/d/14zRm2D6c6_pXXc6uxdt4vtg2K0wx7MaQ/view?usp=sharing)
 
 ## Dataset
 
